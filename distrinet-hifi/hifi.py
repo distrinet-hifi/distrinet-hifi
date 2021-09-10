@@ -355,7 +355,7 @@ class Collector:
 
 			tau = tau12 + tau21 # µs
 
-			est = len*1e3/B + blen*1e3/B + (plen*1e3/B - tau*1e-3) + d
+			est = len*1e3/B + blen*1e3/B + (plen*1e3/B - tau*1e-3) + 2 * d
 
 			self.blens.append(blen)
 			self.plens.append(plen)
