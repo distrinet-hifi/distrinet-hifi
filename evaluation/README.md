@@ -13,7 +13,7 @@ The data analysis and plotting script is provided as a Jupyter notebook. You can
 ## Usage
 First create a directory where the experiment data will be downloaded, then save its path in the `PATH` variable of the scripts. You can then run the experiment on R2Lab:
 ```
-python3 agent.py
+python3 evaluation.py
 ```
 
 Once the experiment is finished (around 10 minutes), you can start analysing the data and reproducing the figures in the paper. The code to do so is available in the notebook.
