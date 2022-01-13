@@ -44,3 +44,7 @@ python3 agent.py --ip=NODE_IP --bastion=LEADER_IP
 
 ## Contributors
 Houssam ElBouanani, Chadi Barakat, Walid Dabbous, and Thierry Turletti - DIANA team, Inria Sophia Antipolis, Université Côte d'Azur
+
+## Acknowledgements
+![alt text](https://www.fed4fire.eu/wp-content/uploads/sites/10/2017/03/fed4fire_logo-e1489343254776.png)
+This work has been funded by Fed4Fire+. Fed4FIRE+ is a project under the European Union’s Programme Horizon 2020, offering the largest federation worldwide of Next Generation Internet (NGI) testbeds, which provide open, accessible and reliable facilities supporting a wide variety of different research and innovation communities and initiatives in Europe.
