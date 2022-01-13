@@ -44,6 +44,9 @@ python3 agent.py --ip=NODE_IP --bastion=LEADER_IP
 
 ## Contributors
 Houssam ElBouanani  DIANA, Inria Sophia Antipolis, Université Côte d'Azur
+
 Chadi Barakat       DIANA, Inria Sophia Antipolis, Université Côte d'Azur
+
 Walid Dabbous       DIANA, Inria Sophia Antipolis, Université Côte d'Azur
+
 Thierry Turletti    DIANA, Inria Sophia Antipolis, Université Côte d'Azur
